@@ -14,6 +14,7 @@
 ## Role
 - hacker for mc in later chapters
 - mentee of detective in chapter 2
+- 
 
 
 

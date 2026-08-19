@@ -9,7 +9,7 @@
 |      | [[Detective]]        | Weapon smuggling                                                         | Victim ([[Chapter 2]])                      | Male                    | Latvia           | investigation stuff       |
 |      | [[Surgeon]]          | Identity theft                                                           | sacrifice ([[Chapter 5]])                   | Male                    | Canada           | medical equipment         |
 |      | [[Cult Leader]]      | Cannibalism                                                              | Executed ([[Chapter 4]])                    | Male                    | Georgia          | insence                   |
-|      | [[Photographer]]     | Blackmail/stalking                                                       | Executed ([[Chapter 2]])                    | Female                  | congo            | camera                    |
+|      | [[Photographer]]     | Blackmail/stalking                                                       | Executed ([[Chapter 2]])                    | Female                  | Congo            | camera                    |
 |      | [[Chef]]             | Connections to black market/illegal trading                              | Survivor                                    | Male                    | DUTTTTCH         | spices                    |
 |      | [[Hitman]]           | Murder, connections to hitman organisations                              | Executed ([[Chapter 1]])                    | Ambigious (Genderfluid) | Malawi           | gloves and other shit     |
 |      | [[Organiser]]        | Accessory to second degree murder                                        | Victim (1) ([[Chapter 3]])                  | Female                  | The Bahamas      | poison                    |
@@ -17,6 +17,7 @@
 |      | [[Locksmith]]        | Burglery                                                                 | Victim (2) ([[Chapter 3]])                  | Female                  | Laos             | lockpicking tools         |
 |      | [[Gardener]]         | Drug selling                                                             | Victim [[Chapter 4]]                        | Male                    | Bolivia          | pots and vertilizer       |
 |      | [[Bureaucrat (Cop)]] | Forging classified documents of law (Claims to have committed tax fraud) | Real Mastermind - Executed ([[Chapter 6]])  | Male                    | Japanese         | masterkey / keycard       |
+|      | [[Escape artist]]    | Crime ? - kept escaping jail                                             | secondary protagonist - survivor            |                         |                  | NA                        |
 
 | [[Monocam]]              |
 | ------------------------ |

@@ -1,6 +1,6 @@
 LEFT: 9
 
-motive: no motive (despair decease)
+motive: no motive (something with pairs)
 
 In the aftermath of [[Chapter 3]], there's a lot of tension in the group. [[Monocam]] makes everyone form a duo, and they have to do bonding exercises together. 
 
